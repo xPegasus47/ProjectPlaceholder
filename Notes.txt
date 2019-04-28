@@ -13,3 +13,9 @@ Hidden Devils Arm Weapons
 LIGHT: Order Justice Integrity Utilitarianism
 
 DARK: Freedom Self-Mastery Enlightenment Egoism
+
+Skills and Abilities -- Capped to a point -- need training to further
+
+Special trainers hidden in the world that give special skills to player characters
+
+NPCs call the guards on you after you keep talking to them
