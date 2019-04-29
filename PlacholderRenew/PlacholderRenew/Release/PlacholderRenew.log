@@ -1,0 +1,11 @@
+﻿  Game.cpp
+  main.cpp
+c:\users\xpegasus47\source\repos\placholderrenew\placholderrenew\main.cpp(3): error C2061: syntax error: identifier '_TCHAR'
+  MainMenu.cpp
+c:\users\xpegasus47\source\repos\placholderrenew\placholderrenew\mainmenu.h(5): error C2653: 'sf': is not a class or namespace name
+c:\users\xpegasus47\source\repos\placholderrenew\placholderrenew\mainmenu.h(5): error C2061: syntax error: identifier 'RenderWindow'
+c:\users\xpegasus47\source\repos\placholderrenew\placholderrenew\mainmenu.cpp(4): error C2653: 'sf': is not a class or namespace name
+c:\users\xpegasus47\source\repos\placholderrenew\placholderrenew\mainmenu.cpp(4): error C2065: 'RenderWindow': undeclared identifier
+c:\users\xpegasus47\source\repos\placholderrenew\placholderrenew\mainmenu.cpp(4): error C2065: 'renderWindow': undeclared identifier
+c:\users\xpegasus47\source\repos\placholderrenew\placholderrenew\mainmenu.cpp(4): error C2761: 'void MainMenu::Show(void)': redeclaration of member is not allowed
+c:\users\xpegasus47\source\repos\placholderrenew\placholderrenew\mainmenu.cpp(5): error C2448: 'MainMenu::Show': function-style initializer appears to be a function definition
