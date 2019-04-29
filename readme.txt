@@ -1,5 +1,5 @@
 -=-=-=- -==-=- -==-=- -==-=- -==-=-
- TIME FANTASY - DARK DIMENSION TILESET
+ TIME FANTASY - ASHLANDS TILESET
 -==-=- -==-=- -==-=- -==-=- -==-=-
 
 Thank you for downloading this tileset! 
@@ -12,8 +12,6 @@ in my Time Fantasy style. Can also be used as a standalone tileset.
 
 This set includes versions formatted for use in RPGMaker VX/Ace and RPGMaker MV, as well as a regular 
 tile-sheet based on a 16x16 grid. 
-
-This set includes animated character sets as well for use in RPG Maker, for the doors and floating rocks.
 
 -------------------------
 Time Fantasy Website
