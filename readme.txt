@@ -1,10 +1,10 @@
 -=-=-=- -==-=- -==-=- -==-=- -==-=-
- TIME FANTASY - JUNGLE TILESET
+ TIME FANTASY - BEACH TILESET
 -==-=- -==-=- -==-=- -==-=- -==-=-
 
 Thank you for downloading this tileset! 
 
-This jungle tileset is a FREE release for anybody to download. I created this set as a reward for reaching a goal 
+This tileset is a FREE release for anybody to download. I created this set as a reward for reaching a goal 
 on my Patreon page. Thanks to my wonderful patrons for making this free release possible! patreon.com/finalbossblues
 
 This tileset is a mini-expansion for the Time Fantasy RPG assets. It's compatible with all other graphics that I release 
