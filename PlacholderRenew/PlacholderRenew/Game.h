@@ -1,24 +1,35 @@
 #pragma once
-#pragma once
-#include "SFML/Window.hpp"
-#include "SFML/Graphics.hpp"
+#include "stdafx.h"
 
 
 class Game
 {
-
 public:
-	static void Start();
+	void Start();
+	sf::Time getElapsed();
+	void restartClock();
 
 private:
-	static bool IsExiting();
-	static void GameLoop();
+	void update();
+	void render();
+	void handlePlayerInput();
+	bool IsExiting();
+	void GameLoop();
+	sf::Sprite player;
+	sf::Clock _Clock;
+	sf::Time _Elapsed;
+
+	void ShowSplashScreen();
+	void ShowMenu();
 
 	enum GameState {
-		Uninitialized, ShowingSplash, Paused,
-		ShowingMenu, Playing, Exiting
+		Uninitialized, ShowingSplash, ShowingMenu, Playing, Exiting, Continue
 	};
 
+	enum PlayState {
+		Paused, Menu, None
+	};
+
+	static int _side;
 	static GameState _gameState;
-	static sf::RenderWindow _mainWindow;
 };

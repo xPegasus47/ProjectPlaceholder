@@ -16,7 +16,12 @@
 #include <SFML/Window.hpp>
 #include <SFML/Audio.hpp>
 #include "Game.H"
+#include "MainMenu.h"
+#include "SplashScreen.h"
+#include "Window.h"
 
 #include <map>
 #include <iostream>
 #include <cassert>
+#include <list>
+#include <vector>
